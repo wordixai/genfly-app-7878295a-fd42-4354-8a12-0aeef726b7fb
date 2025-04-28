@@ -7,7 +7,7 @@ import Pricing from "@/components/Pricing";
 import FAQ from "@/components/FAQ";
 import CTA from "@/components/CTA";
 
-export default function Home() {
+export default function WhatsAppMarketingPage() {
   return (
     <>
       <Hero />
